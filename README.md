@@ -1,10 +1,13 @@
-### <font color=green> How did it start and how is it going : :) :blush:
 
 # HomePage 🤠
 
 Have a nice day!
 
 <a href="https://github.com/ali10emre"><img src="contributions.svg"></a>
+
+
+
+### <font color=green> How did it start and how is it going : :) :blush:
 
 
 </font>
