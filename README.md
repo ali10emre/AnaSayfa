@@ -1,4 +1,12 @@
 ### <font color=green> How did it start and how is it going : :) :blush:
+
+# HomePage 🤠
+
+Have a nice day!
+
+<a href="https://github.com/ali10emre"><img src="contributions.svg"></a>
+
+
 </font>
 
 <img src="https://media3.giphy.com/media/Dk57URqjqjHjNGHeMV/giphy.gif?cid=790b76114f001d70f2380fe4e11858b4a88db2dedf43867d&rid=giphy.gif&ct=g" width="100" height="100" style=" margin-left:5px;" > <img src="https://media0.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=790b76117701cc6b0a6a21a3f43067ae6dab643d283c9928&rid=giphy.gif&ct=g" width="100" height="100" style="margin-left:1px;">
