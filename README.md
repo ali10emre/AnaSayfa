@@ -7,7 +7,7 @@ Have a nice day!
 
 
 
-### <font color=green> How did it start and how is it going : :) :blush:
+### <font color=green> How did it start and how is it going  :) :blush:
 
 
 </font>
@@ -20,12 +20,12 @@ Have a nice day!
 ---
 
 <h1 align="center" dir="auto">
-  <a href="https://git.io/typing-svg" rel="nofollow">
+  <a>
     <img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&lines=Hello+there!;Welcome+to+my+github+page.;I+hope+my+projects+can+contribute+to+you.;Good+luck+for+everything!">
   </a>
 </h1>
 
-### Hi , I'm Beytullah BİLEK
+### Hi , I'm Ali Emre DEMİRCİ
 
 
 **I'm a Computer Engineer & Software Developer from Turkey**
