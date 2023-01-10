@@ -1,6 +1,8 @@
 
 # HomePage 🤠
 
+Have a nice day!
+
 
 <a href="https://github.com/ali10emre"><img src="contributions.svg"></a>
 
@@ -69,5 +71,3 @@ Tools, languages, and other things that I like to work with.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/atom/atom-original.svg" width="25" height="25">
 <img src="https://w7.pngwing.com/pngs/22/61/png-transparent-android-logo-android-application-software-android-logo-computer-wallpaper-grass-mobile-phones-thumbnail.png" width="25" height="25">
-
-Have a nice day!
