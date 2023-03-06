@@ -29,7 +29,7 @@ Have a nice day!
 ### Hi , I'm Ali Emre DEMİRCİ
 
 
-**I'm a Computer Engineer & Software Developer from Turkey**
+**I'm a Computer Engineer & Software Developer from Türkiye**
 
 
 <br>
